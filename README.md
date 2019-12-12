@@ -7,4 +7,4 @@
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-**Use postgres sql for database for this web-app.
+**Use postgres sql as database for this web-app.
