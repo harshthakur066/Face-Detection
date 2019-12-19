@@ -1,4 +1,4 @@
-#Prequisite for this project
+# Prequisite for this project
 
 Crisp:
 1.npm install -g create-react-app //React will Install
