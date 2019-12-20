@@ -2,11 +2,11 @@
 
 Crisp:
 
-1.npm install -g create-react-app //React will Install
+1.`npm install -g create-react-app` //React will Install
 
-2.create-react-app Face-detection //It will create a folder of the name face-detection
+2.`create-react-app Face-detection` //It will create a folder of the name face-detection
 
-3.npm install --save-dev @babel/core //For installing babel- for compiling JSX
+3.Set your editor as React-Javascript or Babel-Javascript
 
 
 # Face-Detection
